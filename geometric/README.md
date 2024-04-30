@@ -11,4 +11,3 @@ How to Run:
 1.	Clone or download project files from GitHub repository.
 2.	Compile and run Main.java. 
 3.	Edit parameters for shape objects to achieve desired results.
-![image](https://github.com/RMaffei/ad300/assets/87504586/d074a013-e871-44b4-a53d-8a4a83a8e9b5)
