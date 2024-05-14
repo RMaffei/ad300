@@ -1,4 +1,3 @@
-// ArrayListDemo.java
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.Random;
@@ -10,7 +9,7 @@ public class ArrayListDemo {
         for (int i = 0; i < 10; i++) {
             randomIntegers.add(random.nextInt(100));
         }
-
+// use to calculate sum of random integers + testing purpose / add up arraylist
         System.out.println("Random Integers:");
         Iterator<Integer> iterator = randomIntegers.iterator();
         int sum = 0;
